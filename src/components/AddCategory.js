@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import PropTypes from "prop-types";
 
-const words = ['','Naruto','One Direction','Goku','One Piece','Sasuke','Teta','Culo','Pito','Piton','Pene','Hola','Ola','Rick and Morty','Spiderman','Trolo','Gay','Marvel','Alesandro Lalli GAY','Lucas Montesino Puto','Puri no viniste a mi FC','Ara I love you','Sale anvurgues'];
+const words = ['','Naruto','One Direction','Goku','One Piece','Sasuke','Teta','Culo','Pito','Piton','Pene','Hola','Ola','Rick and Morty','Spiderman','Trolo','Gay','Marvel','Alesandro Lalli GAY','Lucas Montesino Puto','Puri no viniste a mi FC','Ara I love you','Sale anvurgues','vamo a juga?','chato cagon'];
 
 export const AddCategory = ({setCategories}) => {
     
